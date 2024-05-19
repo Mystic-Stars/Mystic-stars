@@ -3,11 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/Mystic_Stars-GHS-yellow)
 ![](https://komarev.com/ghpvc/?username=Mystic-stars)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
-  <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
-</picture>
 
 ## 👋 About Me
 
