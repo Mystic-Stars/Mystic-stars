@@ -3,6 +3,12 @@
 ![Static Badge](https://img.shields.io/badge/Mystic_Stars-GHS-yellow)
 ![](https://komarev.com/ghpvc/?username=Mystic-stars)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+  <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+</picture>
+
 ## 👋 About Me
 
 🙋‍♂️ Hello there! I'm a student from China, currently studying in the vibrant city of Chengdu📚. 
@@ -32,9 +38,14 @@ As an anime enthusiast🌸, I also love to document the shows I've watched and e
 ## 🔢 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Mystic-stars"><img src="https://readme.chuishen.xyz/api?username=Mystic-stars&rank_icon=percentile&count_private=true" /></a>
-  <a href="https://github.com/Mystic-stars"><img src="https://readme.chuishen.xyz/api/top-langs/?username=Mystic-stars&hide_title=true&count_private=true"></a>
+  <a href="https://github.com/Mystic-stars"><img src="https://readme.chuishen.xyz/api?username=Mystic-stars&rank_icon=percentile&count_private=true" /></a><br>
+  <a href="https://github.com/Mystic-stars"><img src="https://readme.chuishen.xyz/api/top-langs/?username=Mystic-stars&count_private=true"></a>
 </div>
 
+<!-- 你啥时候想加了把这个注释去掉
+## 🏆 GitHub Profile Trophy
 
-
+<a href="https://github.com/Mystic-stars">
+  <img width="900" src="https://github-profile-trophy.vercel.app/?username=Mystic-stars&column=10"/>
+</a>
+-->
