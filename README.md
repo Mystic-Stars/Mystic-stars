@@ -8,11 +8,11 @@
 
 🙋‍♂️ Hello there! I'm a student from China, currently studying in the vibrant city of Chengdu📚. 
 
-I have a deep passion for programming💻 and I'm proficient in languages like Python. Web development is another area that fascinates me. 
+I have a deep passion for programming💻, and I'm proficient in languages like Python. Web development is another area that fascinates me. 
 
-Feel free to click [here](https://www.mysticstars.cn) to visit my blog🌐, where I share more about my personal stories and dive into various technical topics. When I'm not coding, you can often find me immersed in the world of Minecraft🎮. My in-game name is **Mystic_Stars**, and I enjoy survival mode, mini-games, and PVP. 
+Feel free to click [here](https://www.mysticstars.cn) to visit my blog🌐, where I share more about my personal stories and dive into various technical topics. When I'm not coding, you can often find me immersed in Minecraft🎮. My in-game name is **Mystic_Stars**, and I enjoy survival mode, mini-games, and PVP. 
 
-As an anime enthusiast🌸, I also love to document the shows I've watched and enjoyed on my blog📺. If you want to learn more about me, visit my [homepage website](https://me.mysticstars.cn).
+As an anime enthusiast🌸, I also love documenting the shows I've watched and enjoyed on my blog📺. If you would like to learn more about me, visit my [homepage website](https://me.mysticstars.cn).
 
 ## 💬 Contact
 
