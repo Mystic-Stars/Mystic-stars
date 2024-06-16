@@ -16,9 +16,7 @@ As an anime enthusiast🌸, I also love to document the shows I've watched and e
 
 ## 💬 Contact
 
-📧 E-mail: 
-
-  - 1278347583@qq.com (Private, Personal)
+📧 E-mail: 1278347583@qq.com
 
 🌐 Website:
 
@@ -28,7 +26,6 @@ As an anime enthusiast🌸, I also love to document the shows I've watched and e
 📺 Media:
 
   - https://space.bilibili.com/2007491365 (Bilibili)
-    </a>
 
 ## 🔢 GitHub Stats
 
