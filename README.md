@@ -26,14 +26,3 @@ As an anime enthusiast🌸, I also love documenting the shows I've watched and e
 📺 Media:
 
   - https://space.bilibili.com/2007491365 (Bilibili)
-
-## 🔢 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Mystic-stars"><img src="https://readme.chuishen.xyz/api?username=Mystic-stars&rank_icon=percentile&count_private=true" /></a><br>
-
-## 🏆 GitHub Profile Trophy
-
-<a href="https://github.com/Mystic-stars">
-  <img width="900" src="https://github-profile-trophy.vercel.app/?username=Mystic-stars&column=10"/>
-</a>
